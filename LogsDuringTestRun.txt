@@ -1,0 +1,52 @@
+-------------------------------------------
+-Homemade autostart by the alaskalinuxuser-
+Configuring the Device Information Service
+Less than 13v, Pin A3: 0.89
+Less than 13v, Pin A3: 0.87
+Less than 13v, Pin A3: 0.87
+Less than 13v, Pin A3: 0.87
+Less than 13v, Pin A3: 0.87
+Less than 13v, Pin A3: 0.87
+Less than 13v, Pin A3: 0.87
+Less than 13v, Pin A3: 0.87
+Button 1 released
+Less than 13v, Pin A3: 0.86
+ startTimer 4
+Less than 13v, Pin A3: 0.86
+ startTimer 3
+Less than 13v, Pin A3: 0.85
+ startTimer 2
+Less than 13v, Pin A3: 0.85
+ startTimer 1
+Less than 13v, Pin A3: 0.84
+ startTimer 0
+Less than 13v, Pin A3: 0.84
+ crankTimer ON 
+ crankTimer 1
+Less than 13v, Pin A3: 0.72
+ crankTimer 0
+Less than 13v, Pin A3: 0.81
+ Not running, try again... 
+2
+Greater than 13v, Pin A3: 0.90
+Less than 13v, Pin A3: 0.89
+Less than 13v, Pin A3: 0.90
+Greater than 13v, Pin A3: 0.91
+Greater than 13v, Pin A3: 0.93
+Less than 13v, Pin A3: 0.87
+Button 2 pressed
+ Kill All - Button pressed. 
+Less than 13v, Pin A3: 0.85
+Button 2 released
+ Kill All - Button pressed. 
+Less than 13v, Pin A3: 0.85
+Less than 13v, Pin A3: 0.85
+Less than 13v, Pin A3: 0.85
+Less than 13v, Pin A3: 0.85
+Less than 13v, Pin A3: 0.86
+Less than 13v, Pin A3: 0.86
+Less than 13v, Pin A3: 0.85
+Less than 13v, Pin A3: 0.86
+Less than 13v, Pin A3: 0.85
+Less than 13v, Pin A3: 0.85
+Less than 13v, Pin A3: 0.85
