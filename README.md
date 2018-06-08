@@ -1,5 +1,11 @@
 # BlueFruit Autostart
 
+#################
+This repository has been archived and is read only. Please go to https://gitlab.com/alaskalinuxuser for an open and editable version of this repository. All of my repositories have been copied to GitLab. Please post any issues, comments, or work there. Thank you - AlaskaLinuxUser.
+#################
+
+
+
 Here is my work on a home built bluetooth autostart that uses a BlueFruit nRF52 board at it's core.
 
 The entire build process, my thoughts, and actions are can be read here:
